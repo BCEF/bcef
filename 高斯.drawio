@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaP2gmVsoH6NU2fmM0v--11" value="&lt;div&gt;原始的图像&lt;/div&gt;&lt;div&gt;GrondTruth&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="FaP2gmVsoH6NU2fmM0v--11" value="&lt;div&gt;原始图像&lt;/div&gt;&lt;div&gt;（真值）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaP2gmVsoH6NU2fmM0v--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="FaP2gmVsoH6NU2fmM0v--12" target="FaP2gmVsoH6NU2fmM0v--14">
