@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.3">
   <diagram name="第 1 页" id="nden9D6ITigBBMDM2Ytv">
-    <mxGraphModel dx="1139" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2821" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,64 +8,63 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-5" value="非关键帧同拓扑obj" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gtqKSPDY2urYnu_UUiIA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAKNzCCuAKZaa_WfZxbo-6" target="gtqKSPDY2urYnu_UUiIA-1">
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LAKNzCCuAKZaa_WfZxbo-6" target="gtqKSPDY2urYnu_UUiIA-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="230" />
+              <mxPoint x="290" y="180" />
+              <mxPoint x="290" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-6" value="&lt;div&gt;关键帧ply&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-7" target="LAKNzCCuAKZaa_WfZxbo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gtqKSPDY2urYnu_UUiIA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAKNzCCuAKZaa_WfZxbo-7" target="gtqKSPDY2urYnu_UUiIA-1">
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="LAKNzCCuAKZaa_WfZxbo-7" target="gtqKSPDY2urYnu_UUiIA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-7" value="关键帧重拓扑obj" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-8" target="LAKNzCCuAKZaa_WfZxbo-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-8" value="计算t-1帧到t帧的三角面变换矩阵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-9" target="LAKNzCCuAKZaa_WfZxbo-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-9" value="t-1帧到t帧所有三角面的变换矩阵" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-14" value="&lt;div&gt;t-1帧ply&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-15" target="LAKNzCCuAKZaa_WfZxbo-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-15" value="应用变换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LAKNzCCuAKZaa_WfZxbo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-14" target="LAKNzCCuAKZaa_WfZxbo-15" edge="1">
+        <mxCell id="LAKNzCCuAKZaa_WfZxbo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-20" target="LAKNzCCuAKZaa_WfZxbo-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="390" />
-              <mxPoint x="340" y="390" />
+              <mxPoint x="360" y="390" />
+              <mxPoint x="440" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LAKNzCCuAKZaa_WfZxbo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-23" target="LAKNzCCuAKZaa_WfZxbo-14" edge="1">
+        <mxCell id="LAKNzCCuAKZaa_WfZxbo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-23" target="LAKNzCCuAKZaa_WfZxbo-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="630" as="sourcePoint" />
+            <mxPoint x="360" y="630" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="710" />
-              <mxPoint x="20" y="710" />
-              <mxPoint x="20" y="290" />
-              <mxPoint x="260" y="290" />
+              <mxPoint x="440" y="710" />
+              <mxPoint x="110" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -73,33 +72,129 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-18" value="t帧的初始化ply" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LAKNzCCuAKZaa_WfZxbo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-20" target="LAKNzCCuAKZaa_WfZxbo-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="400" />
-              <mxPoint x="310" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LAKNzCCuAKZaa_WfZxbo-20" value="ply与obj三角面的映射关系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-23" value="train2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LAKNzCCuAKZaa_WfZxbo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-25" target="LAKNzCCuAKZaa_WfZxbo-23" edge="1">
+        <mxCell id="LAKNzCCuAKZaa_WfZxbo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="LAKNzCCuAKZaa_WfZxbo-25" target="LAKNzCCuAKZaa_WfZxbo-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAKNzCCuAKZaa_WfZxbo-25" value="images" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gtqKSPDY2urYnu_UUiIA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-1" target="LAKNzCCuAKZaa_WfZxbo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtqKSPDY2urYnu_UUiIA-1" value="寻找最近点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-5" value="相机参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-5" target="LAKNzCCuAKZaa_WfZxbo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-10" target="gtqKSPDY2urYnu_UUiIA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-10" value="非关键帧同拓扑obj" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-12" target="gtqKSPDY2urYnu_UUiIA-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-650" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-12" target="gtqKSPDY2urYnu_UUiIA-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-12" value="&lt;div&gt;关键帧ply&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-15" target="gtqKSPDY2urYnu_UUiIA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-15" target="gtqKSPDY2urYnu_UUiIA-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-15" value="关键帧0重拓扑obj" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-17" target="gtqKSPDY2urYnu_UUiIA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-17" value="计算0帧到t帧的三角面变换矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-19" target="gtqKSPDY2urYnu_UUiIA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-19" value="0帧到t帧所有三角面的变换矩阵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-22" target="gtqKSPDY2urYnu_UUiIA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-22" value="应用变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-26" target="gtqKSPDY2urYnu_UUiIA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-26" value="t帧的初始化ply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-28" target="gtqKSPDY2urYnu_UUiIA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-28" value="ply与obj三角面的映射关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-29" value="train" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-31" target="gtqKSPDY2urYnu_UUiIA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-31" value="images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-33" target="gtqKSPDY2urYnu_UUiIA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-33" value="寻找最近点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-34" value="相机参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-34" target="gtqKSPDY2urYnu_UUiIA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-36" target="LAKNzCCuAKZaa_WfZxbo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-36" value="&lt;div&gt;t-1帧高斯图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gtqKSPDY2urYnu_UUiIA-38" target="gtqKSPDY2urYnu_UUiIA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-38" value="&lt;div&gt;t-1帧高斯图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtqKSPDY2urYnu_UUiIA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAKNzCCuAKZaa_WfZxbo-14" target="LAKNzCCuAKZaa_WfZxbo-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="140" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAKNzCCuAKZaa_WfZxbo-20" value="ply与obj三角面的映射关系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
